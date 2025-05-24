@@ -1,4 +1,4 @@
-# 📡 Secure Multi-Branch Office Network (DEPI Graduation Project)
+## 📡 Secure Multi-Branch Office Network (DEPI Graduation Project)
 
 A hands-on graduation project under the **Digital Egypt Pioneers Initiative (DEPI)**.  
 The objective was to **design, implement, and secure** a simulated enterprise network interconnecting a main office with multiple branches using **Cisco technologies**.
